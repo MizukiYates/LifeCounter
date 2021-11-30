@@ -4,7 +4,7 @@
 ##Features
 - None, currently in development
 
-#Upcoming Features
+##Upcoming Features
 - [ ] Basic life counter
 - [ ] Coin flip
 - [ ] Any sided dice roll
